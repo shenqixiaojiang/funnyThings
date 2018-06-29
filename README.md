@@ -1,6 +1,7 @@
 # funnyThings
 ## 1 图像风格化
-[介绍](https://www.jiqizhixin.com/articles/2018-05-15-5)
+[图像风格化介绍](https://www.jiqizhixin.com/articles/2018-05-15-5)
+
 [Keras代码](https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py)
 
 ## 2 文字风格化
