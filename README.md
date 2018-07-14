@@ -6,3 +6,6 @@
 
 ## 2 文字风格化
 [Keras 代码](https://github.com/yuweiming70/Style_Migration_For_Artistic_Font_With_CNN) 清华的学生做的，挺有意思。
+
+## 3 物体检测
+[Tensorflow demo](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb)
