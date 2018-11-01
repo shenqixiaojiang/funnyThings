@@ -11,8 +11,8 @@
 [Tensorflow demo](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb)
 
 ## 4 图片显著性区域检测
-* [Saliency](https://github.com/yhenon/pyimgsaliency)
+[基于传统算法的Saliency](https://github.com/yhenon/pyimgsaliency)
 
 ## 5 图像超分辨率重建
 
-[EDSR](https://github.com/thstkdgus35/EDSR-PyTorch)
+[基于深度学习的EDSR](https://github.com/thstkdgus35/EDSR-PyTorch)
