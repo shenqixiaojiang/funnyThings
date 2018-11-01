@@ -15,4 +15,8 @@
 
 ## 5 图像超分辨率重建
 
-[基于深度学习的EDSR](https://github.com/thstkdgus35/EDSR-PyTorch)
+#### [EDSR](https://github.com/thstkdgus35/EDSR-PyTorch)
+下载好代码后，直接将待测试的数据放到test集合，然后使用下条命令即可。结果将保存到experiment/test/results-Demo/。
+```
+python main.py --data_test Demo --scale 4 --pre_train download --test_only --save_results
+```
