@@ -20,3 +20,6 @@
 ```
 python main.py --data_test Demo --scale 4 --pre_train download --test_only --save_results
 ```
+
+## 6 相似检索
+[product quantization](http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017/08/05/understanding-product-quantization)
