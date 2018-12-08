@@ -25,10 +25,10 @@ python main.py --data_test Demo --scale 4 --pre_train download --test_only --sav
 [product quantization](http://vividfree.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017/08/05/understanding-product-quantization)
 
 ## 7 自步学习
-在[课程学习](https://blog.csdn.net/weixin_37805505/article/details/79144854)的基础上发展起来的。通过自步学习参数K控制从易到难的学习样本。
-[基础知识](https://blog.csdn.net/Bear_Kai/article/details/77771127)
-[保证选择样本多样性](http://www.hanlongfei.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017/07/28/spld/)
+在[课程学习](https://blog.csdn.net/weixin_37805505/article/details/79144854)的基础上发展起来的。通过自步学习参数K控制从易到难的学习样本。<br>
+* [基础知识](https://blog.csdn.net/Bear_Kai/article/details/77771127)
+* [保证选择样本多样性](http://www.hanlongfei.com/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/2017/07/28/spld/)
 
 ## 8 自学习
 通过引入稀疏自编码器，学习到原始图像更充分的特征表达。
-[基础知识](https://blog.csdn.net/jiede1/article/details/76769248)
+* [基础知识](https://blog.csdn.net/jiede1/article/details/76769248)
