@@ -39,5 +39,5 @@ python main.py --data_test Demo --scale 4 --pre_train download --test_only --sav
 
 ## 10 迁移学习
 从源域到目标域的迁移。
-[基础知识](https://zhuanlan.zhihu.com/p/47991650)
-[解决多媒体不同模态之间共有特征和私有特征的问题](https://zhuanlan.zhihu.com/p/49479734)
+* [基础知识](https://zhuanlan.zhihu.com/p/47991650)
+* [解决多媒体不同模态之间共有特征和私有特征的问题](https://zhuanlan.zhihu.com/p/49479734)
