@@ -11,7 +11,7 @@
 [Tensorflow demo](https://github.com/tensorflow/models/blob/master/research/object_detection/object_detection_tutorial.ipynb)
 
 ## 4 图片显著性区域检测
-[基于传统算法的Saliency](https://github.com/yhenon/pyimgsaliency)
+[基于传统算法的Saliency](https://github.com/yhenon/pyimgsaliency) <br>
 [效果不错的FCN算法](https://github.com/NathanUA/BASNet)
 
 ## 5 图像超分辨率重建
